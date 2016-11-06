@@ -1,8 +1,6 @@
 # Feature-Extraction
-Computer Vision School project to extract feature curves from 
 
-The basic algorithm for detecting feature lines, as laid out in the paper Smooth Feature Lines on Surface Meshes 
-can be broken down into a few basic parts: 
+The basic algorithm for detecting feature lines of a mesh can be broken down into a few basic parts: 
 1. Calculation of intermediary values 
 2. Processing of regular triangles 
 3. Processing of singular triangles 
